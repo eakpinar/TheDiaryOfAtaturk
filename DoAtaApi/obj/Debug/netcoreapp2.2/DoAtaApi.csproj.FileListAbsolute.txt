@@ -1,0 +1,14 @@
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/bin/Debug/netcoreapp2.2/DoAtaApi.deps.json
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/bin/Debug/netcoreapp2.2/DoAtaApi.runtimeconfig.json
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/bin/Debug/netcoreapp2.2/DoAtaApi.runtimeconfig.dev.json
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/bin/Debug/netcoreapp2.2/DoAtaApi.dll
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/bin/Debug/netcoreapp2.2/DoAtaApi.pdb
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.csprojAssemblyReference.cache
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.csproj.CoreCompileInputs.cache
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.RazorAssemblyInfo.cache
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.RazorAssemblyInfo.cs
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.AssemblyInfoInputs.cache
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.AssemblyInfo.cs
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.RazorTargetAssemblyInfo.cache
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.dll
+/Users/erdiakpinar/TheDiaryOfAtaturk/DoAtaApi/obj/Debug/netcoreapp2.2/DoAtaApi.pdb
